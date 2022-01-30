@@ -4,4 +4,3 @@ A web-based game to help create awareness about staying indoors due to Corona. W
 
 The game aims to provide a message along with entertainment. It teaches us that being ignorant for this pandemic will eventually result in your downfall. Therefore, it is advised to stay indoors and help the nation defeat this pandemic.
 
-The project can be found on - https://simmer.io/@runwalakshat5/dodge-corona
